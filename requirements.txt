@@ -10,3 +10,4 @@ pathlib
 fastapi
 plotly
 uvicorn
+pandas
