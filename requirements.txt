@@ -7,3 +7,6 @@ matplotlib
 seaborn
 joblib
 pathlib
+fastapi
+plotly
+uvicorn

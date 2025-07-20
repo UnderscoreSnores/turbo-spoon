@@ -1,0 +1,22 @@
+symbol,best_model,test_accuracy,model_profit,model_return_pct,num_trades,buy_strength,buy_strength_label,predicted_sell_point,predicted_sell_price,trainer
+AVGO,random_forest,0.5501285347043702,4309.615563748382,430.96155637483815,46,3,Buy,2025-07-19,283.34,<models.train.ModelTrainer object at 0x10b8ac6e0>
+UPST,lightgbm,0.532133676092545,2095.3258607366506,209.53258607366507,138,3,Buy,2025-07-19,78.36,<models.train.ModelTrainer object at 0x10b8ac6e0>
+JD,xgboost,0.5655526992287918,1142.9765406271626,114.29765406271626,148,3,Buy,2025-07-19,33.92,<models.train.ModelTrainer object at 0x10b8ac6e0>
+CRSP,logistic_regression,0.5449871465295629,869.1709626325032,86.91709626325033,82,3,Buy,2025-07-19,65.13,<models.train.ModelTrainer object at 0x10b8ac6e0>
+NVDA,random_forest,0.5372750642673522,644.9028718857455,64.49028718857456,48,3,Buy,2025-07-19,172.41,<models.train.ModelTrainer object at 0x10b8ac6e0>
+ABNB,mlp,0.5526992287917738,628.7997588945041,62.8799758894504,90,3,Buy,2025-07-19,139.34,<models.train.ModelTrainer object at 0x10b8ac6e0>
+NFLX,xgboost,0.5398457583547558,552.7916197880402,55.27916197880401,130,3,Buy,2025-07-19,1209.24,<models.train.ModelTrainer object at 0x10b8ac6e0>
+TSLA,lightgbm,0.5372750642673522,383.81360886735206,38.38136088673521,172,3,Buy,2025-07-19,329.65,<models.train.ModelTrainer object at 0x10b8ac6e0>
+AAPL,mlp,0.4961439588688946,163.77961259138647,16.377961259138647,32,2,Weak (Short),2025-07-19,211.18,<models.train.ModelTrainer object at 0x10b8ac6e0>
+COST,lightgbm,0.480719794344473,117.68638004568766,11.768638004568766,154,2,Weak (Short),2025-07-18,953.91,<models.train.ModelTrainer object at 0x10b8ac6e0>
+GOOGL,logistic_regression,0.5372750642673522,88.81508842462267,8.881508842462267,90,3,Buy,2025-07-19,185.06,<models.train.ModelTrainer object at 0x10b8ac6e0>
+AMZN,logistic_regression,0.5115681233933161,-23.930849483909128,-2.393084948390913,42,2,Weak (Short),2025-07-19,226.13,<models.train.ModelTrainer object at 0x10b8ac6e0>
+AMD,random_forest,0.5167095115681234,-39.157081387435596,-3.9157081387435593,96,2,Weak (Short),2025-07-19,156.99,<models.train.ModelTrainer object at 0x10b8ac6e0>
+GOOG,logistic_regression,0.5115681233933161,-42.48252556745808,-4.2482525567458085,78,2,Weak (Short),2025-07-19,185.94,<models.train.ModelTrainer object at 0x10b8ac6e0>
+MSFT,xgboost,0.519280205655527,-68.05973847098778,-6.8059738470987785,170,2,Weak (Short),2025-07-18,511.7,<models.train.ModelTrainer object at 0x10b8ac6e0>
+BFC,logistic_regression,0.5167095115681234,-162.62497320435648,-16.26249732043565,100,2,Weak (Short),2025-07-19,126.17,<models.train.ModelTrainer object at 0x10b8ac6e0>
+WBD,xgboost,0.5681233933161953,-322.498456086895,-32.2498456086895,142,2,Weak (Short),2025-07-19,12.75,<models.train.ModelTrainer object at 0x10b8ac6e0>
+META,mlp,0.493573264781491,-354.0464741645103,-35.40464741645103,68,2,Weak (Short),2025-07-19,704.28,<models.train.ModelTrainer object at 0x10b8ac6e0>
+INTC,logistic_regression,0.5089974293059126,-530.6760002172617,-53.06760002172617,62,2,Weak (Short),2025-07-19,23.1,<models.train.ModelTrainer object at 0x10b8ac6e0>
+COIN,mlp,0.506426735218509,-927.2333217677128,-92.72333217677128,108,2,Weak (Short),2025-07-19,419.78,<models.train.ModelTrainer object at 0x10b8ac6e0>
+SOUN,random_forest,0.5655526992287918,-944.5001579272399,-94.450015792724,44,2,Weak (Short),2025-07-19,12.81,<models.train.ModelTrainer object at 0x10b8ac6e0>
